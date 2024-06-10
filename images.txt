@@ -1,1 +1,1 @@
-homeassistant/amd64-hassio-supervisor
+nodered/node-red
