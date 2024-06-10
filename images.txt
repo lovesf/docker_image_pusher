@@ -1,1 +1,1 @@
-esphome/esphome
+homeassistant/amd64-addon-mosquitto
