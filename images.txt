@@ -1,1 +1,1 @@
-homeassistant/amd64-hassio-supervisor/
+ghcr.io/home-assistant/home-assistant:stable
