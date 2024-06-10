@@ -1,1 +1,1 @@
-homeassistant/amd64-addon-mosquitto
+homeassistant/armv7-hassio-supervisor
